@@ -8,13 +8,9 @@
 일반:
   들여쓰기
 
-```
-public class BootSpringBootApplication {
-  public static void main(String[] args) {
-    System.out.println("코드블럭코드");
-  }
-}
-```
+1. 첫번째
+3. 세번째
+2. 두번째
 
 * * *
 
